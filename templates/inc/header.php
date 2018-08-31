@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
-    <title>JobLister</title>
+    <title>Gammaweb Jobs</title>
 </head>
 <body>
 <div class="container">
@@ -21,9 +21,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="create.php">Create Listing</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">About Us</a>
                     </li>
                 </ul>
 <!--                <form class="form-inline my-2 my-lg-0">-->

@@ -5,4 +5,4 @@ define("DB_USER","root");
 define("DB_PASS", "root");
 define("DB_NAME", "joblister");
 
-define("SITE_TITLE", "JobLister");
+define("SITE_TITLE", "Our Jobs");

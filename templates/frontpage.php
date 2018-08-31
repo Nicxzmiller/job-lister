@@ -20,7 +20,7 @@
             <p><?php echo $job->description; ?></p>
         </div>
         <div class="col-md-2">
-            <a href="#" class="btn btn-secondary">View</a>
+            <a href="job.php?id=<?php echo $job->id;?>" class="btn btn-secondary">View</a>
         </div>
     </div>
 <?php endforeach; ?>
